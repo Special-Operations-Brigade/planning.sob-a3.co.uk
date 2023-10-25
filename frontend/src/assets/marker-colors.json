@@ -158,5 +158,150 @@
             0.4,
             1
         ]
+    },
+    {
+        "id": "ColorBridgade",
+        "name": "Bridgade",
+        "color": [
+            0.188,
+            0.188,
+            0.188
+        ]
+    },
+    {
+        "id": "ColorCompany",
+        "name": "Company",
+        "color": [
+            0.282,
+            0.282,
+            0.282
+        ]
+    },
+    {
+        "id": "ColorPlatoonTwo",
+        "name": "Platoon 2",
+        "color": [
+            0.592,
+            0.012,
+            0.012
+        ]
+    },
+    {
+        "id": "ColorTwoOne",
+        "name": "2-1",
+        "color": [
+            0.133,
+            0.353,
+            0.671
+        ]
+    },
+    {
+        "id": "ColorTwoTwo",
+        "name": "2-2",
+        "color": [
+            0.075,
+            0.545,
+            0.204
+        ]
+    },
+    {
+        "id": "ColorTwoThree",
+        "name": "2-3",
+        "color": [
+            0.545,
+            0.435,
+            0.075
+        ]
+    },
+    {
+        "id": "ColorTwoFour",
+        "name": "2-4",
+        "color": [
+            0.522,
+            0.235,
+            0.067
+        ]
+    },
+    {
+        "id": "ColorPlatoonOne",
+        "name": "Platoon 1",
+        "color": [
+            0.012,
+            0.247,
+            0.592
+        ]
+
+    },
+    {
+        "id": "ColorOneOne",
+        "name": "1-1",
+        "color": [
+            0.133,
+            0.608,
+            0.671
+        ]
+    },
+    {
+        "id": "ColorOneTwo",
+        "name": "1-2",
+        "color": [
+            0.345,
+            0.545,
+            0.075
+        ]
+    },
+    {
+        "id": "ColorOneThree",
+        "name": "1-3",
+        "color": [
+            0.529,
+            0.545,
+            0.075
+        ]
+    },
+    {
+        "id": "ColorOneFour",
+        "name": "1-4",
+        "color": [
+            0.627,
+            0.243,
+            0.067
+        ]
+    },
+    {
+        "id": "ColorAviation",
+        "name": "Aviation",
+        "color": [
+            0.71,
+            0.294,
+            0.635
+        ]
+    },
+    {
+        "id": "ColorCovertOps",
+        "name": "Covert Ops",
+        "color": [
+            0.349,
+            0.118,
+            0.584
+        ]
+    },
+    {
+        "id": "ColorFieldSupport",
+        "name": "Field Support",
+        "color": [
+            0.025,
+            0.204,
+            0.522
+        ]
+    },
+    {
+        "id": "ColorEmergency",
+        "name": "Emergency",
+        "color": [
+            0.6,
+            0,
+            0.6
+        ]
     }
 ]

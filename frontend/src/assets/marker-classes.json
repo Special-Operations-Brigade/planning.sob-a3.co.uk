@@ -38,5 +38,9 @@
     {
         "id": "Flags",
         "displayName": "Flags"
+    },
+    {
+        "id": "SOB",
+        "displayName": "Special Operations Brigade"
     }
 ]
