@@ -37,7 +37,7 @@
 import { Component, Vue } from 'vue-property-decorator';
 import { createSession } from '@/services';
 import MapItemVue from '@/components/Create/MapItem.vue';
-import { fetchMaps, MapMetaData } from '@gruppe-adler/maps-frontend-utils';
+import { fetchMaps, MapMetaData } from '@sob-a3/maps-frontend-utils';
 
 type PartialMapMeta = Pick<MapMetaData, 'displayName' | 'worldName' | 'author'>;
 

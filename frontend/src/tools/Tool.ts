@@ -1,4 +1,4 @@
-import { GradMap } from '@gruppe-adler/maps-frontend-utils';
+import { GradMap } from '@sob-a3/maps-frontend-utils/lib/leaflet';
 
 export default abstract class Tool extends EventTarget {
     protected map: GradMap;

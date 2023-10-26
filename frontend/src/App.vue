@@ -4,12 +4,12 @@
 
 <script lang="ts">
 import { Component, Vue } from 'vue-property-decorator';
-import { setApiUri } from '@gruppe-adler/maps-frontend-utils';
+import { setApiUri } from '@sob-a3/maps-frontend-utils';
 
 @Component
 export default class AppVue extends Vue {
     private created () {
-        setApiUri('https://maps.gruppe-adler.de');
+        setApiUri('https://maps.devworld.net');
     }
 }
 </script>

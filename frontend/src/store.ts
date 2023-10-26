@@ -2,7 +2,7 @@ import Vue from 'vue';
 import VueX from 'vuex';
 import { Feature, User as SharedUser, Marker } from '@/services/shared';
 import FeatureService from './services/feature';
-import { GradMap } from '@gruppe-adler/maps-frontend-utils';
+import { GradMap } from '@sob-a3/maps-frontend-utils/lib/leaflet';
 
 Vue.use(VueX);
 

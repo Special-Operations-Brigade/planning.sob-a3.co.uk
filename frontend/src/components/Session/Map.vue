@@ -25,7 +25,7 @@ import MarkerFeature from '@/features/Marker';
 
 import deepEqual from 'deep-equal';
 import { mapState } from 'vuex';
-import { GradMap } from '@gruppe-adler/maps-frontend-utils';
+import { GradMap } from '@sob-a3/maps-frontend-utils/lib/leaflet';
 
 @Component({
     computed: {
@@ -74,7 +74,7 @@ export default class MapVue extends Vue {
         }
 
         try {
-            this.map = await GradMap.new(
+            this.map = await new GradMap(
                 worldName,
                 this.$refs.map as HTMLDivElement,
                 {

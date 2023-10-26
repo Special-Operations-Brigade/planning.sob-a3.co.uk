@@ -42,7 +42,7 @@ import FeatureService from '@/services/feature';
 import PointingService from '@/services/pointing';
 import CreatePopupVue from '@/components/Session/Popups/Create.vue';
 import EditPopupVue from '@/components/Session/Popups/Edit.vue';
-import { GradMap } from '@gruppe-adler/maps-frontend-utils';
+import { GradMap } from '@sob-a3/maps-frontend-utils/lib/leaflet';
 
 @Component({
     components: {

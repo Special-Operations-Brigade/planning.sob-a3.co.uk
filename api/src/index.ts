@@ -21,7 +21,7 @@ const app = express();
 app.use(cors({
     credentials: true,
     origin: [
-        new RegExp('gruppe-adler.de$', 'i'),
+        new RegExp('devworld.net$', 'i'),
         new RegExp('localhost:[0-9]+$', 'i'),
         new RegExp('127.0.0.1:[0-9]+$', 'i'),
         new RegExp('127.0.0.1$', 'i'),

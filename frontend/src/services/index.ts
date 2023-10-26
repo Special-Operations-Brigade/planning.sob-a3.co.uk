@@ -1,5 +1,5 @@
 export const API_SECURE = true;
-export const API_DOMAIN = 'planning.gruppe-adler.de';
+export const API_DOMAIN = 'planning.devworld.net';
 // export const API_DOMAIN = location.origin;
 
 const API_URL = `http${API_SECURE ? 's' : ''}://${API_DOMAIN}/api`;

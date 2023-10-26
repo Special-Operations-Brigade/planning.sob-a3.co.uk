@@ -8,7 +8,7 @@
 
 <script lang="ts">
 import { Component, Vue, Prop } from 'vue-property-decorator';
-import { MapMetaData, mapPreviewImgUrl } from '@gruppe-adler/maps-frontend-utils';
+import { MapMetaData, mapPreviewImgUrl } from '@sob-a3/maps-frontend-utils';
 
 type PartialMapMeta = Pick<MapMetaData, 'displayName' | 'worldName' | 'author'>;
 

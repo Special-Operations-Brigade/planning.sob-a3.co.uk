@@ -14,7 +14,7 @@ import { WebSocketController } from '@/services/websocket';
 import { Comment } from '@/services/shared';
 import { LatLng, DivOverlay, DomEvent as LeafletDomEvent } from 'leaflet';
 import { mapState } from 'vuex';
-import { GradMap } from '@gruppe-adler/maps-frontend-utils';
+import { GradMap } from '@sob-a3/maps-frontend-utils/lib/leaflet';
 
 class GradPopup extends DivOverlay {
     private _initLayout() {
